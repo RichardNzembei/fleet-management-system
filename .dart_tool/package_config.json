@@ -164,13 +164,13 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "currency_value_chain_app",
+      "name": "fleet",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     }
   ],
-  "generated": "2025-02-13T09:46:32.274286Z",
+  "generated": "2025-02-13T19:22:18.918516Z",
   "generator": "pub",
   "generatorVersion": "3.7.0",
   "flutterRoot": "file:///opt/flutter",
