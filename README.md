@@ -162,7 +162,7 @@ This project is licensed under the MIT License.
 ## Contact
 ```json
 {
-  "email": "your_email@example.com",
-  "github": "https://github.com/your-profile",
+  "email": "richardsonreuben78@gmail.com",
+  "github": "https://github.com/RichardNzembei",
   "linkedin": "https://linkedin.com/in/your-profile"
 }
