@@ -4,7 +4,7 @@
             "outputFile": "com.example.currency_value_chain_app-mergeDebugResources-24:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/reuben/Documents/currency_value_chain_app-1/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/reuben/Documents/fleet-management-system-1/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
